@@ -6,6 +6,8 @@ Uses Evernote Web, created with JavaFX
 
 
 ## Current Version: 1.3
+[![Download ForeverNote](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/forevernote/files/latest/download)
+
 >[*Download installers and jar files here*](https://sourceforge.net/projects/forevernote/files/)
 
 ## New Release Notes

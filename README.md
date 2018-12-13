@@ -34,8 +34,3 @@ Uses Evernote Web, created with JavaFX
 ![alt tag](https://github.com/milan102/ForeverNote/blob/master/preview/forevernote_sample2.png)
 ![alt tag](https://github.com/milan102/ForeverNote/blob/master/preview/forevernote_sample3.png)
 
-
-## Donations
-<p align="center">
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HL3P4UC2JKEAN&lc=US&item_name=Milan%27s%20Software&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate"/></a>
-</p>

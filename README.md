@@ -4,6 +4,8 @@ Open-source Evernote application for Linux, with ability to run on Windows & Mac
 
 Uses Evernote Web, created with JavaFX
 
+## NOTICE
+Development of this version of ForeverNote has been suspended due to severe limitations and lack of support for JavaFX
 
 ## Current Version: 1.3
 [![Download ForeverNote](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/forevernote/files/latest/download)
@@ -36,3 +38,8 @@ Uses Evernote Web, created with JavaFX
 ![alt tag](https://github.com/milan102/ForeverNote/blob/master/preview/forevernote_sample2.png)
 ![alt tag](https://github.com/milan102/ForeverNote/blob/master/preview/forevernote_sample3.png)
 
+## Development
+- Download the latest OpenJFX library for your platform here https://openjfx.io/
+- Set-up the library as a dependency in your IDE
+- Set the main class as ```forevernote.Main```
+- In your IDE's VM options pass ```--module-path /full/path/to/your/javafx/lib/folder  --add-modules=javafx.controls,javafx.fxml,javafx.graphics,javafx.web,javafx.swing```

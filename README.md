@@ -4,13 +4,10 @@ Open-source Evernote application for Linux, with ability to run on Windows & Mac
 
 Uses Evernote Web, created with JavaFX
 
-## NOTICE
+# NOTICE
 Development of this version of ForeverNote has been suspended due to severe limitations and lack of support for JavaFX. [I recommend using Tusk instead](https://github.com/klaussinani/tusk)
 
 ## Current Version: 1.3
-[![Download ForeverNote](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/forevernote/files/latest/download)
-
->[*Download installers and jar files here*](https://sourceforge.net/projects/forevernote/files/)
 
 ## New Release Notes
 - Fixed clicking on notebooks on the left panel and creating new notebooks
